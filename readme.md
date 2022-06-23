@@ -1,5 +1,8 @@
-Fala meu povo, boa noite, mais um projeto iniciante que eu fiz pela plataforma B7Web, mas agora foi com typescript,
-no começo eu achava algo de outro mundo mas é muito  gostoso quando você começa a entender as tecnologias. É o Famoso projeto "To do list"
-aparentemente é indispensavel no portfólio de todo  desenvolvedor iniciante, haha.
+#  Projeto To do
 
-Link: https://todo-jair.netlify.app
+## Concluido.
+
+## tecnologias.
+Foi usado o framework react com a linguagem type script, e styled components nesse projeto.
+
+## Link para o projeto: https://todo-jair.netlify.app
